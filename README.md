@@ -22,7 +22,7 @@ Hallo mamang 👋😂
 ![](https://github-contributor-stats.vercel.app/api?username=GEBENGBOTZ&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblockchainmedia.id%2Fwp-content%2Fuploads%2F2021%2F08%2FDogecoin-Chainalysis-1068x641.jpg&tbnid=0c5oW99vqy_M1M&vet=1&imgrefurl=https%3A%2F%2Fblockchainmedia.id%2Fdogecoin-akan-hadir-dalam-laporan-terbaru-chainalysis%2F&docid=hb30k4_JMLjPXM&w=1068&h=641&source=sh%2Fx%2Fim%2F2" width="512px"/>
+<img src="https://ibb.co/82PygCZ" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GEBENGBOTZ&icon=5&color=1)](https://visitcount.itsvg.in)
