@@ -13,13 +13,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=GEBENGBOTZ&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![]([https://images.app.goo.gl/we3RoLEMb81yMFiY7])
+![](https://images.app.goo.gl/we3RoLEMb81yMFiY7)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GEBENGBOTZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src=([https://images.app.goo.gl/9p4QbuAokxFgKfAb7])
+<img src=(https://images.app.goo.gl/9p4QbuAokxFgKfAb7)
 width="512px"/>
 
 ---
