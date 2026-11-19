@@ -14,7 +14,7 @@ class SupportService:Service(){
  override fun onStartCommand(i:Intent?,flags:Int,startId:Int):Int{
   server=i?.getStringExtra("url")?:server;code=i?.getStringExtra("code")?:code;deviceId=i?.getStringExtra("id")?:deviceId
   val nm=getSystemService(NotificationManager::class.java);if(Build.VERSION.SDK_INT>=26)nm.createNotificationChannel(NotificationChannel("support","Remote support connection",NotificationManager.IMPORTANCE_LOW))
-  val n=Notification.Builder(this,"support").setContentTitle("GEBENGBOTZ Support connected").setContentText("Status sharing active — tap Disconnect in app").setSmallIcon(android.R.drawable.stat_sys_upload).build()
+  val nb=if(Build.VERSION.SDK_INT>=26) Notification.Builder(this,"support") else Notification.Builder(this);val n=nb.setContentTitle("GEBENGBOTZ Support connected").setContentText("Status sharing active — tap Disconnect in app").setSmallIcon(android.R.drawable.stat_sys_upload).build()
   if(Build.VERSION.SDK_INT>=29)startForeground(1,n,ServiceInfo.FOREGROUND_SERVICE_TYPE_CONNECTED_DEVICE) else startForeground(1,n)
   connect();return START_NOT_STICKY
  }
