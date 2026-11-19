@@ -1,0 +1,1 @@
+# Relay server\n\nRun: `PAIRING_CODE='use-a-long-random-code' uvicorn main:app --host 0.0.0.0 --port 8000`\n\nPut behind HTTPS reverse proxy and use WSS. Never expose the pairing code in a public repository. The MVP relay supports device pairing, online status, and explicit status requests only.\n
